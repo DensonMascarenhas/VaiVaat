@@ -1,5 +1,6 @@
 # VaiVaat
 The Inventory Manager Software
+
 Retailers today are looking for smarter, more time-efficient, more cost-effective ways of inventory management. Traditional methods of inventory management are time-consuming and prone to human error, which costs businesses time and money. By deploying smart inventory management solutions such as autonomous inventory robots, smart shelves, RFID, etc., retailers are able to reduce shrinkage and improve overall business efficiency.	
 This project is mainly developed for smart inventory management of a shop. The objective of this project to achieve an application that manages all the transactions via voice command or text thereby saves time and manual work. We rarely find these applications in practical use but they are really helpful in nature. So here we’ve developed an application that can manage all the tasks. It’s user friendly,simple for any random user to use and manage all the processing and can hold records of day to day transactions in a sequential fashion.
 
